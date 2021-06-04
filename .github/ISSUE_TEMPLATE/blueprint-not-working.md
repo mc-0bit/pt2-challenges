@@ -1,6 +1,6 @@
 ---
 name: Blueprint not working
-about: Create a report to help us improve
+about: Use this Template if a Blueprint is not working
 title: "[Blueprint not working]"
 labels: bug
 assignees: ''
